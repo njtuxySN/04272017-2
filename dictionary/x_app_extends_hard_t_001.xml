@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="t_001" max_length="40" name="x_app_extends_hard_t_001" type="collection"/>
+</database>

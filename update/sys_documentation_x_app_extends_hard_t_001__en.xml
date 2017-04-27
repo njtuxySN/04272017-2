@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="t_001" language="en" table="x_app_extends_hard_t_001">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>t_001</label>
+            <language>en</language>
+            <name>x_app_extends_hard_t_001</name>
+            <plural>t_001s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-27 20:46:27</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a1a2da83b9123200964f538aee53ac7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>t_001</sys_name>
+            <sys_package display_value="App_Extends_Hardware_Table" source="x_app_extends_hard">6c229e43b9123200964f538aee53aca1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="App_Extends_Hardware_Table">6c229e43b9123200964f538aee53aca1</sys_scope>
+            <sys_update_name>sys_documentation_x_app_extends_hard_t_001__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-27 20:46:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
